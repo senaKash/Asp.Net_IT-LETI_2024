@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Board.Contracts</name>
+    </assembly>
+    <members>
+        <member name="T:Board.Contracts.Posts.CreatePostDto">
+            <summary>
+            Модель создания объявления
+            </summary>
+        </member>
+        <member name="P:Board.Contracts.Posts.CreatePostDto.Name">
+            <summary>
+            Наименование
+            </summary>
+        </member>
+        <member name="P:Board.Contracts.Posts.CreatePostDto.Description">
+            <summary>
+            Описание
+            </summary>
+        </member>
+        <member name="P:Board.Contracts.Posts.CreatePostDto.Tag">
+            <summary>
+            Теги
+            </summary>
+        </member>
+        <member name="P:Board.Contracts.Posts.CreatePostDto.CreationDate">
+            <summary>
+            Дата создания
+            </summary>
+        </member>
+    </members>
+</doc>

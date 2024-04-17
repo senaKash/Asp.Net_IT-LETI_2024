@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNOb+p0S7XEBSnKiIFIUQAf++phKLP3henL5t1pv26k+C9h2m4Iexgv94T9vEaabskY6OaXITlwIU3CnGw1ccQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sena\\.nuget\\packages\\jsonconverter.abstractions\\0.5.0\\jsonconverter.abstractions.0.5.0.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

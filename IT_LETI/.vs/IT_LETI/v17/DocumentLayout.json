@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\sena\\source\\repos\\asp.net_it_leti_3\\asp.net_it_leti\\it_leti\\host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\sena\\source\\repos\\asp.net_it_leti_3\\asp.net_it_leti\\it_leti\\host\\board.host.api\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:host\\board.host.api\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T17:18:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.Host.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "RelativeDocumentMoniker": "Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "RelativeToolTip": "Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T17:13:25.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
