@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj": {}
+    "D:\\repos\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj": {
+    "D:\\repos\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
+        "projectUniqueName": "D:\\repos\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
         "projectName": "Board.Infrastructure.DataAccess",
-        "projectPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
+        "projectPath": "D:\\repos\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Infrastructure.DataAccess\\obj\\",
+        "outputPath": "D:\\repos\\Board.Infrastructure.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",

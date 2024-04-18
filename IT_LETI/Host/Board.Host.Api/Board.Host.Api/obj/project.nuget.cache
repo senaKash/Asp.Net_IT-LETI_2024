@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sNOb+p0S7XEBSnKiIFIUQAf++phKLP3henL5t1pv26k+C9h2m4Iexgv94T9vEaabskY6OaXITlwIU3CnGw1ccQ==",
+  "dgSpecHash": "0WSJcDgm0YRKxSmBQxjCIwA6bC9+3dWHKmbtm40RLeZccQZV4VJ7V21h14lObZCj/QZxxJA7HipPVD73nLVuuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+  "projectFilePath": "D:\\repos\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sena\\.nuget\\packages\\jsonconverter.abstractions\\0.5.0\\jsonconverter.abstractions.0.5.0.nupkg.sha512",
     "C:\\Users\\Sena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

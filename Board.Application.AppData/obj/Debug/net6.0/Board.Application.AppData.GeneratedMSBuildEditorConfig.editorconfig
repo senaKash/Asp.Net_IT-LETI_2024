@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Board.Application.AppData
-build_property.ProjectDir = C:\Users\Sena\source\repos\ASP.Net_IT_LETI_3\ASP.Net_IT_LETI_98348534\Board.Application.AppData\
+build_property.ProjectDir = D:\repos\Board.Application.AppData\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,14 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\",
+  "WorkspaceRootPath": "D:\\repos\\IT_LETI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\sena\\source\\repos\\asp.net_it_leti_3\\asp.net_it_leti\\it_leti\\host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{47962EA8-8F3D-471D-A74D-80380BF45793}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{47962EA8-8F3D-471D-A74D-80380BF45793}|D:\\repos\\IT_LETI\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{47962EA8-8F3D-471D-A74D-80380BF45793}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{47962EA8-8F3D-471D-A74D-80380BF45793}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|c:\\users\\sena\\source\\repos\\asp.net_it_leti_3\\asp.net_it_leti\\it_leti\\host\\board.host.api\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|d:\\repos\\it_leti\\host\\board.host.api\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:host\\board.host.api\\board.host.api\\board.host.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA691D37-FEF4-4A1E-9D11-74C465483A40}|..\\Board.Infrastructure.DataAccess\\Board.Infrastructure.DataAccess.csproj|d:\\repos\\board.infrastructure.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|d:\\repos\\it_leti\\host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}|Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj|solutionrelative:host\\board.host.api\\board.host.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,40 +25,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-17T17:18:38.448Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\repos\\IT_LETI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\repos\\IT_LETI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-18T05:13:31.466Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\repos\\Board.Infrastructure.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Board.Infrastructure.DataAccess\\Class1.cs",
+              "ToolTip": "D:\\repos\\Board.Infrastructure.DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\Board.Infrastructure.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:13:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\repos\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\repos\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Host\\Board.Host.Api\\Board.Host.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T17:18:38.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Board.Host.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "DocumentMoniker": "D:\\repos\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
               "RelativeDocumentMoniker": "Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
-              "ToolTip": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
+              "ToolTip": "D:\\repos\\IT_LETI\\Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
               "RelativeToolTip": "Host\\Board.Host.Api\\Board.Host.Api\\Board.Host.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T17:13:25.255Z"
+              "WhenOpened": "2024-04-17T17:13:25.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

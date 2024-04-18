@@ -23,7 +23,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Board.Contracts", "..\Board
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Board.Infrastructure.DataAccess", "..\Board.Infrastructure.DataAccess\Board.Infrastructure.DataAccess.csproj", "{EA691D37-FEF4-4A1E-9D11-74C465483A40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board.Host.Api", "Host\Board.Host.Api\Board.Host.Api\Board.Host.Api.csproj", "{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Board.Host.Api", "Host\Board.Host.Api\Board.Host.Api\Board.Host.Api.csproj", "{ED6FC873-3A4A-46E1-A2D6-DFA182419D4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{47962EA8-8F3D-471D-A74D-80380BF45793}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

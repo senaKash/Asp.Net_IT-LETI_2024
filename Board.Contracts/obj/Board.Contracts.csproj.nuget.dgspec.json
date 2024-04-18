@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Contracts\\Board.Contracts.csproj": {}
+    "D:\\repos\\Board.Contracts\\Board.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Contracts\\Board.Contracts.csproj": {
+    "D:\\repos\\Board.Contracts\\Board.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Contracts\\Board.Contracts.csproj",
+        "projectUniqueName": "D:\\repos\\Board.Contracts\\Board.Contracts.csproj",
         "projectName": "Board.Contracts",
-        "projectPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Contracts\\Board.Contracts.csproj",
+        "projectPath": "D:\\repos\\Board.Contracts\\Board.Contracts.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\source\\repos\\ASP.Net_IT_LETI_3\\ASP.Net_IT_LETI_98348534\\Board.Contracts\\obj\\",
+        "outputPath": "D:\\repos\\Board.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
