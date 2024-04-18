@@ -35,7 +35,7 @@
               "RelativeDocumentMoniker": "src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
               "ToolTip": "D:\\repos\\src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
               "RelativeToolTip": "src\\Board.Contracts\\Attributes\\NameValidationAttributes.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T12:15:21.494Z",
               "EditorCaption": ""
@@ -50,21 +50,19 @@
               "RelativeToolTip": "src\\Board.Host.Api\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T12:07:30.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T12:07:30.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Board.Host.Api",
+              "Title": "Board.Host.Api.csproj",
               "DocumentMoniker": "D:\\repos\\src\\Board.Host.Api\\Board.Host.Api.csproj",
               "RelativeDocumentMoniker": "src\\Board.Host.Api\\Board.Host.Api.csproj",
               "ToolTip": "D:\\repos\\src\\Board.Host.Api\\Board.Host.Api.csproj",
               "RelativeToolTip": "src\\Board.Host.Api\\Board.Host.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T12:06:40.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T12:06:40.951Z"
             },
             {
               "$type": "Document",
@@ -74,8 +72,7 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAF0IAAAAAAAAAAAgwGgIAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-18T12:07:13.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T12:07:13.023Z"
             }
           ]
         }
