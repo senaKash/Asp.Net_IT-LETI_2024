@@ -1,2 +1,9 @@
-bin/
-obj/
+Board.Application.AppData/bin/*
+Board.Application.AppData/obj/*
+Board.Contracts/bin/*
+Board.Contracts/obj/*
+Board.Infrastructure.DataAccess/bin/*
+Board.Infrastructure.DataAccess/obj/*
+IT_LETI/bin/*
+IT_LETI/obj/*
+IT_LETI/.vs/*
