@@ -18,6 +18,7 @@
     <ProjectReference Include="..\Board.Application.AppData\Board.Application.AppData.csproj" />
     <ProjectReference Include="..\Board.Contracts\Board.Contracts.csproj" />
   </ItemGroup>
+
     
 </Project>
 

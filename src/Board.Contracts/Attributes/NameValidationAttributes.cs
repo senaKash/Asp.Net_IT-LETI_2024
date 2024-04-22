@@ -32,7 +32,7 @@ namespace Board.Contracts.Attributes
             ? new ValidationResult("Наименование содержит запрещенные слова")
             : ValidationResult.Success;
         }
-        */
 
+        */
     }
 }

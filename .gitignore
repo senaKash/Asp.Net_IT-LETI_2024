@@ -279,3 +279,14 @@ src/**/inf.yaml
 
 /WebApplication1/WebApplication1/Properties/ServiceDependencies/kursoft-test-api - Web Deploy
 /WebApplication1/WebApplication1/Properties
+=======
+src/Board.Application.AppData/bin/*
+src/Board.Application.AppData/obj/*
+src/Board.Application.AppData/.vs/*
+src/Board.Contracts/bin/*
+src/Board.Contracts/obj/*
+src/Board.Host.Api/bin/*
+src/Board.Host.Api/obj/*
+src/Board.Infrastructure.DataAccess/bin/*
+src/Board.Infrastructure.DataAccess/obj/*
+.vs/*
