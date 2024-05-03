@@ -19,7 +19,7 @@ namespace Board.Contracts.Attributes
         }
         */
 
-        
+        /*
         protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
             string? valueAsString = (string)value;
@@ -32,7 +32,7 @@ namespace Board.Contracts.Attributes
             ? new ValidationResult("Наименование содержит запрещенные слова")
             : ValidationResult.Success;
         }
-        
 
+        */
     }
 }

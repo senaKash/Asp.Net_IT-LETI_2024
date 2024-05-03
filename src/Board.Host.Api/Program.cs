@@ -1,7 +1,3 @@
-//using Board.Application.AppData;
-//using Board.Application.AppData.Posts.Services;
-//using Board.Contracts;
-//using Board.Contracts.Posts;
 using Board.Application.AppData;
 using Board.Application.AppData.Posts.Services;
 using Board.Contracts;
