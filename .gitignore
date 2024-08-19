@@ -482,3 +482,16 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/.vs/IT_LETI/v17/.suo
+/.gitignore
+/src/Board.Infrastucture/Board.Infrastucture/obj/project.nuget.cache
+/src/Board.Infrastucture/Board.Infrastucture/obj/project.assets.json
+/src/Board.Infrastucture/Board.Infrastucture/obj/Board.Infrastucture.csproj.nuget.g.props
+/src/Board.Infrastucture/Board.Infrastucture/obj/Board.Infrastucture.csproj.nuget.dgspec.json
+/src/Board.Infrastucture/Board.Infrastucture/obj/Debug/net8.0/Board.Infrastucture.csproj.AssemblyReference.cache
+/src/Board.Infrastucture/Board.Infrastucture/obj/Debug/net8.0/Board.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+/src/Board.Infrastucture/Board.Infrastucture/obj/Debug/net8.0/Board.Infrastucture.AssemblyInfo.cs
+/src/Board.Infrastucture/Board.Infrastucture/obj/Debug/net8.0/Board.Infrastucture.AssemblyInfoInputs.cache
+/src/Board.Infrastucture/Board.Infrastucture/obj/Debug/net8.0/Board.Infrastucture.assets.cache
+/.vs/IT_LETI/v17/.futdcache.v2
+/.vs/IT_LETI/v17/DocumentLayout.json

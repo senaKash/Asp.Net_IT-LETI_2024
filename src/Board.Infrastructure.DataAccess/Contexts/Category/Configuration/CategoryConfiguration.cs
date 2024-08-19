@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace Board.Infrastucture.DataAccess.Contexts.Category.Configuration
 {
     /// <summary>
